@@ -13,13 +13,14 @@ ShareAlike terms. See the license for the complete conditions.
 This file is **not** licensed under the MIT License that applies to
 Pychem's original source code.
 
-
 ## Molecules.json
 
 `data/Molecules.json` is an AI-assisted dataset created for the Pychem
 project.
 
-Approximately 20% of the dataset was generated with OpenAI tools and
-approximately 80% was generated using the AI features of Visual Studio Code.
+Approximately 20% of the dataset was generated using OpenAI tools, and
+approximately 80% was generated using the AI features of Visual Studio
+Code.
 
-The dataset was subsequently incorporated into Pychem by the project author.
+The dataset was subsequently incorporated into Pychem by the project
+author.
